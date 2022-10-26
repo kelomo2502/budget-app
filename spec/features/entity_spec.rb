@@ -4,7 +4,7 @@ RSpec.feature 'Entities', type: :feature do
   include Devise::Test::IntegrationHelpers
 
   before(:each) do
-    @user = User.create(name: 'hanningtone', email: 'han@gmail.com', password: 'password')
+    @user = User.create(name: 'Gbenga', email: 'han@gmail.com', password: 'ssssss')
     @group = Group.create(name: 'Category', icon: 'https://google.com', user_id: @user.id)
     @entity = @group.entities.create(name: 'Transaction', amount: 100, user_id: @user.id)
 
