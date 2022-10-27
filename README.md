@@ -72,7 +72,7 @@ Feel free to check the [issues page](https://github.com/kelomo2502/budget-app/is
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
+ This web application UI design was inspired by [Gregoire Vella on Behance.](https://www.behance.net/gregoirevella)
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
