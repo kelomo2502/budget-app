@@ -16,7 +16,7 @@ This is a mobile web application where you can manage your budget: you have a li
   - Capybara
 ## Demo
 
-Check out the live app [here]()
+Check out the live app [here](https://budget-app-it.herokuapp.com/)
 
 
 ## Getting Started
